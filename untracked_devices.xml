@@ -19,7 +19,7 @@
     <remove-project name="device/generic/uml" />
     <remove-project name="device/generic/x86" />
     <remove-project name="device/generic/x86_64" />
-    <remove-project name="device/google/atv" />
+    <!--<remove-project name="device/google/atv" />--><!--Not existing in LineageOS-->
     <!--<remove-project name="device/google/bonito" />--><!--Not existing in LineageOS-->
     <!--<remove-project name="device/google/bonito-kernel" />--><!--Not existing in LineageOS-->
     <!--<remove-project name="device/google/bonito-sepolicy" />--><!--Not existing in LineageOS-->
