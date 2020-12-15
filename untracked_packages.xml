@@ -20,7 +20,7 @@
     <!-- <remove-project name="platform/packages/apps/Car/Notification" /> -->
     <remove-project name="platform/packages/apps/Car/Overview" />
     <remove-project name="platform/packages/apps/Car/Radio" />
-    <remove-project name="platform/packages/apps/Car/Settings" />
+    <!-- <remove-project name="platform/packages/apps/Car/Settings" /> -->
     <remove-project name="platform/packages/apps/Car/Stream" />
     <remove-project name="platform/packages/apps/Car/SystemUpdater" />
     <remove-project name="platform/packages/apps/Car/externallibs" />
