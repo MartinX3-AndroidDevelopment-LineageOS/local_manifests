@@ -25,7 +25,7 @@
     <remove-project name="platform/packages/apps/Car/SystemUpdater" />
     <remove-project name="platform/packages/apps/Car/externallibs" />
     <remove-project name="platform/packages/apps/Car/tests" />
-</manifest>
 
-<!-- LAST: Remove some more repos changed by LineageOS -->
-<include name="local_manifests/lineageos/untracked_packages.xml" />
+    <!-- LAST: Remove some more repos changed by LineageOS -->
+    <include name="local_manifests/lineageos/untracked_packages.xml" />
+</manifest>
