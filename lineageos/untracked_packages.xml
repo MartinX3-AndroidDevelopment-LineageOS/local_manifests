@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!--
+        Original package "platform/packages/apps/Car/Settings" has been removed and renamed to the following.
+        Added the remove-package here (seperate file) to prevent git sync problems later on...
+     -->
+    <remove-project name="LineageOS/android_packages_apps_Car_Settings" />
+</manifest>
